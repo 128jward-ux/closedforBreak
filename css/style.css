@@ -64,3 +64,24 @@ body {
     top: -50px;
     transform: rotate(30deg);
 }
+
+
+.closed h1 {
+    background-color: #ccc;
+    width: 300px;
+    padding: 5px 0;
+    margin-bottom: 18px;
+    font-family: "Mountains of Christmas", serif;
+}
+
+.closed p, .closed h2 {
+    background-color: #fff;
+    width: 300px;
+    font-size: 35px;
+    line-height: .02;
+    font-family:  "Ballet", cursive;
+}
+
+.closed p {
+    font-size: 15px;
+}
